@@ -18,7 +18,9 @@
       "volume": "",
       "last_updated": "1718480679",
       "groups": {
-        "AAAAAAA": "https://imgur.com/R7gSuHG"
+        "AAAAAAA": [
+          "https://imgur.com/R7gSuHG"
+        ]
       }
     }
   }
