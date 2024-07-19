@@ -3,14 +3,14 @@
   "description": "aurrr naurrrrr ",
   "artist": "evilbeeman",
   "author": "evilbeeman",
-  "cover": "https://imgur.com/a/RFXHxAl",
+  "cover": "https://i.imgur.com/INRw8Kz.png",
   "chapters": {
     "0": {
       "title": "Intro",
       "volume": "",
       "last_updated": "1721379681",
       "groups": {
-        "https://imgur.com/a/RFXHxAl": "/proxy/api/imgur/chapter/RFXHxAl"
+        "/proxy/api/imgur/chapter/RFXHxAl": ""
       }
     }
   }
