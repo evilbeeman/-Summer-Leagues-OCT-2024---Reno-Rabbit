@@ -7,10 +7,10 @@
   "chapters": {
     "0": {
       "title": "Intro",
-      "volume": "",
+      "volume": "0",
       "last_updated": "1721379681",
       "groups": {
-        "imgur": "/proxy/api/imgur/chapter/RFXHxAl"
+        "": "/proxy/api/imgur/chapter/RFXHxAl"
       }
     }
   }
