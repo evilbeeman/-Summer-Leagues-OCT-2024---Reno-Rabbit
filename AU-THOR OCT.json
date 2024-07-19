@@ -10,7 +10,7 @@
       "volume": "",
       "last_updated": "1721379681",
       "groups": {
-        "/proxy/api/imgur/chapter/RFXHxAl": ""
+        "imgur": "/proxy/api/imgur/chapter/RFXHxAl"
       }
     }
   }
