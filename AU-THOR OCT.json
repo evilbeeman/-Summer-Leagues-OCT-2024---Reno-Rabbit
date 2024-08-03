@@ -16,9 +16,11 @@
     "1": {
       "title": "GHOSTS",
       "volume": "0",
-      "last_updated": "1722705132",
+      "last_updated": "1722706517",
       "groups": {
-        "": "https://imgur.com/a/au-thor-oct-ghosts-ekfic6w"
+        "": [
+          "https://imgur.com/a/au-thor-oct-ghosts-ekfic6w"
+        ]
       }
     }
   }
