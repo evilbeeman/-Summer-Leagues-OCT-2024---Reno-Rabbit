@@ -14,11 +14,19 @@
       }
     },
     "1": {
-      "title": "GHOSTS",
+      "title": "GHOSTS - Gala vs. Mackenzie",
       "volume": "0",
       "last_updated": "1722706517",
       "groups": {
         "": "/proxy/api/imgur/chapter/ekfic6w"
+      }
+    },
+    "2": {
+      "title": "HOOK, LINE, AND SINKER - Gala vs. Odette",
+      "volume": "0",
+      "last_updated": "1724531971",
+      "groups": {
+        "": "https://imgur.com/a/au-thor-oct-r3-hook-line-sinker-gala-vs-odette-hWsTXlf"
       }
     }
   }
